@@ -6,11 +6,11 @@ Commands:
 
 - git clone (url)
 
-Read the instructions and grading rubric in HW_4_Instructions_Rubric.pdf.  
+Read the instructions and grading rubric in HW_5_Instructions.pdf.  
 
-Modify the code in hw_4.py.  To add this file to the staging area for a commit use:
+Modify the code in HW5.py.  To add this file to the staging area for a commit use:
 
-- git add hw_4.py
+- git add HW5.py
 
 Be sure to do at least 3 commits to earn up to 15 points.  To commit use:
 
