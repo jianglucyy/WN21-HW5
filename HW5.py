@@ -202,7 +202,7 @@ class TestHomework5(unittest.TestCase):
         self.reader.build_data_dict()
 
     def test_constructor(self):
-        reader2 = CsvReader('testing12')
+        reader2 = CsvReader('testing123')
         self.assertTrue(reader2.filename.endswith('testing123.csv'))
 
     def test_read_lines(self):
